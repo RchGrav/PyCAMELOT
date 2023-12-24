@@ -30,4 +30,6 @@ Your contributions elevate PyCAMELOT, akin to the valorous deeds of Camelot's kn
 PyCAMELOT is under the MIT License. See the LICENSE file.
 
 _Embark on your Python journey with the wisdom of Camelot's sages and the valour of its knights, all encapsulated in PyCAMELOT._
+
+
 ![](https://github.com/RchGrav/PyCAMELOT/blob/edfa32605d15f2ce0a276e60c886a95db35ee626/PyCAMELOT.png)
